@@ -78,7 +78,7 @@ Soy capaz de trabajar en equipo y de forma independiente, según las necesidades
 
 ### Sys admin
 
-**Avance Tecnológico** *2017/10 - 2019/09*. Collado Villalba, Madrid.
+**Avance Tecnológico** *2017/10 - 2019/09*. Collado Villalba, Madrid.<br>
 **Grupo Evolución** *2007/10 - 2015/07*. Collado Villalba, Madrid.
 - [x] Administración y mantenimiento de redes.
 - [x] Euroglow - Alcobendas, Madrid
