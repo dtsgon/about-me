@@ -10,7 +10,7 @@ LinkedIn | https://www.linkedin.com/in/danieltsg/
 Github | https://github.com/dtsgon
 Nacionalidad | Española
 Residencia | Madrid, España
-Inglés | Intermedio.
+Inglés | Intermedio
 
  
 ## Resumen profesional
@@ -22,20 +22,20 @@ Soy capaz de trabajar en equipo y de forma independiente, según las necesidades
 
 ## Formación
 
-**Administración de Sistemas Informáticos.** Ciclo Superior. IES Lázaro Cárdenas, Collado Villalba, Madrid. 2001.
-**Informática de Gestión.** FP II. IES La Dehesilla, Cercedilla, Madrid. 1998.
-**Auxiliar Administrativo.** FP I. IES La Dehesilla, Cercedilla, Madrid. 1995.
+**Administración de Sistemas Informáticos.** Ciclo Superior. IES Lázaro Cárdenas, Collado Villalba, Madrid. 2001.<br>
+**Informática de Gestión.** FP II. IES La Dehesilla, Cercedilla, Madrid. 1998.<br>
+**Auxiliar Administrativo.** FP I. IES La Dehesilla, Cercedilla, Madrid. 1995.<br>
 
 
 ## Puestos laborales
 
 ### PHP engineer
 
-**Wolters Kluwer** *2021/10 - actual*. Las Rozas, Madrid.
-**Avirato** *2019/09 - 2021/10*. Collado Villalba, Madrid.
-**Avance Tecnológico** *2017/10 - 2019/09*. Collado Villalba, Madrid.
-**MedLab** *2015/09 - 2016/11*. Tres Cantos, Madrid.
-**Grupo Evolución** *2007/10 - 2015/07*. Collado Villalba, Madrid.
+**Wolters Kluwer** *2021/10 - actual*. Las Rozas, Madrid.<br>
+**Avirato** *2019/09 - 2021/10*. Collado Villalba, Madrid.<br>
+**Avance Tecnológico** *2017/10 - 2019/09*. Collado Villalba, Madrid.<br>
+**MedLab** *2015/09 - 2016/11*. Tres Cantos, Madrid.<br>
+**Grupo Evolución** *2007/10 - 2015/07*. Collado Villalba, Madrid.<br>
 - [x] Desarrollo de aplicaciones Symfony, vanilla PHP, Zend, Sonata, Smarty.
 - [x] Uso de Symfony bundles, Composer, 
 - [x] Bughunting, mantenimiento y refactorización.
@@ -57,7 +57,7 @@ Soy capaz de trabajar en equipo y de forma independiente, según las necesidades
 
 ### Freelance
 
-**Varios** *07/2015/07 - 2017/10*.
+**Varios** *07/2015/07 - 2017/10*.<br>
 - [x] Desarrollo de aplicaciones en C/C++, Synfony, Sonata.
 - [x] Desarrollo de páginas web en Wordpress y Prestashop.
 - [ ] Habilidades de marketing y ventas.
@@ -66,8 +66,8 @@ Soy capaz de trabajar en equipo y de forma independiente, según las necesidades
 
 ### Visual FoxPro developer
 
-**EasyTech** *2006/01 - 2007/10*. Cerceda, Madrid.
-**EasyTech** *2000/11 - 2002/10*. Cerceda, Madrid.
+**EasyTech** *2006/01 - 2007/10*. Cerceda, Madrid.<br>
+**EasyTech** *2000/11 - 2002/10*. Cerceda, Madrid.<br>
 - [x] Visual FoxPro, MSSQL Server.
 - [x] Desarrollo, implantación y mantenimiento de aplicaciones.
 - [x] Desarrollo en entornos mixtos Web/ActiveX, PALM y otros dispositivos móviles con tecnologías GSM y SMS.
@@ -87,7 +87,7 @@ Soy capaz de trabajar en equipo y de forma independiente, según las necesidades
 
 ### Técnico microinformática
 
-**Case Informática** *2005/03 - 2006/01*. Moralzarzal, Madrid.
+**Case Informática** *2005/03 - 2006/01*. Moralzarzal, Madrid.<br>
 - [x] Reparación de equipos.
 - [x] Mantenimiento, microinformática y redes.
 - [x] Venta cara al público.
@@ -96,7 +96,7 @@ Soy capaz de trabajar en equipo y de forma independiente, según las necesidades
 
 ### SEO/SEM
 
-**WebsPromotions** *2003/03 - 2003/11*. Las Matas, Madrid.
+**WebsPromotions** *2003/03 - 2003/11*. Las Matas, Madrid.<br>
 - [x] Promoción y alta en buscadores.
 - [x] Diseño, desarrollo y mantenimiento de sitios web.
 - [x] HTML, Javascript, ASP, SQL, IIS5 y Frontpage (!).
@@ -104,7 +104,7 @@ Soy capaz de trabajar en equipo y de forma independiente, según las necesidades
 
 ## Aptitudes
 
-- [x] Conocimiento avanzado de PHP.
+- [x] Conocimiento avanzado de PHP.<br>
 - [x] Más PHP (¡desde 2007!)
 - [x] GIT, GIT y más GIT.
 - [x] Toma de decisiones.
