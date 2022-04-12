@@ -40,6 +40,7 @@ Soy capaz de trabajar en equipo y de forma independiente, según las necesidades
 - [x] Uso de Symfony bundles, Composer, 
 - [x] Bughunting, mantenimiento y refactorización.
 - [x] Principios SOLID.
+- [x] Junior mentoring.
 - [x] Desarrollo de módulos, plugins y componentes para Joomla, Prestashop y Wordpress .
 - [x] Coordinación y trabajo en estrecha relación con otros departamentos.
 - [x] Symfony 6, 4 y ¡1!, MySQL, Websockets, REST, GIT, Docker, JSON, YAML, XML, SOAP, Apache, Linux, WAMP.
@@ -53,6 +54,7 @@ Soy capaz de trabajar en equipo y de forma independiente, según las necesidades
 - [x] Bootstrap, Materialize, Twig, Jquery.
 - [x] HTML5, CSS3, jQuery, Javascript, Ajax.
 - [x] Wordpress, Prestashop y creación de plugins.
+- [x] Junior mentoring.
 
 
 ### Freelance
