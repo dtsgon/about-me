@@ -59,7 +59,7 @@ Soy capaz de trabajar en equipo y de forma independiente, según las necesidades
 
 ### Freelance
 
-**Varios** *07/2015/07 - 2017/10*.<br>
+**Varios** *2015/07 - 2017/10*.<br>
 - [x] Desarrollo de aplicaciones en C/C++, Synfony, Sonata.
 - [x] Desarrollo de páginas web en Wordpress y Prestashop.
 - [ ] Habilidades de marketing y ventas.
