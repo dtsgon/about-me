@@ -46,28 +46,6 @@ Soy capaz de trabajar en equipo y de forma independiente, según las necesidades
 - [x] Desarrollo en entornos mixtos Web/ActiveX, PALM y otros dispositivos móviles con tecnologías GSM y SMS.
 - [x] Componentes ActiveX, servicios web, ASP, HTML, objetos COM, COM+, DCOM y SOAP 
 
-## Sys admin
-**Avance Tecnológico** *1 año*. Collado Villalba, Madrid.<br>
-**Grupo Evolución** *8 años*. Collado Villalba, Madrid.<br>
-- [x] Administración y mantenimiento de redes.
-- [x] Euroglow - Alcobendas, Madrid
-- [x] Reparación de equipos.
-- [x] Mantenimiento, microinformática y redes.
-- [x] Venta cara al público.
-
-## Técnico microinformática
-**Case Informática** *1 año*. Moralzarzal, Madrid.<br>
-- [x] Reparación de equipos.
-- [x] Mantenimiento, microinformática y redes.
-- [x] Venta cara al público.
-- [x] Desarrollo en ASP
-
-## SEO/SEM
-**WebsPromotions** *8 meses*. Las Matas, Madrid.<br>
-- [x] Promoción y alta en buscadores.
-- [x] Diseño, desarrollo y mantenimiento de sitios web.
-- [x] HTML, Javascript, ASP, SQL, IIS5 y Frontpage (!).
-
 # Aptitudes
 - [x] Soft skills.
 - [x] Mucho PHP (¡desde 2007!).
@@ -94,3 +72,28 @@ Github | https://github.com/dtsgon
 Nacionalidad | Española
 Residencia | Madrid, España
 Inglés | Intermedio
+
+
+# Otros puestos laborales quizá no tan interesantes
+
+## Sys admin
+**Avance Tecnológico** *1 año*. Collado Villalba, Madrid.<br>
+**Grupo Evolución** *8 años*. Collado Villalba, Madrid.<br>
+- [x] Administración y mantenimiento de redes.
+- [x] Euroglow - Alcobendas, Madrid
+- [x] Reparación de equipos.
+- [x] Mantenimiento, microinformática y redes.
+- [x] Venta cara al público.
+
+## Técnico microinformática
+**Case Informática** *1 año*. Moralzarzal, Madrid.<br>
+- [x] Reparación de equipos.
+- [x] Mantenimiento, microinformática y redes.
+- [x] Venta cara al público.
+- [x] Desarrollo en ASP
+
+## SEO/SEM
+**WebsPromotions** *8 meses*. Las Matas, Madrid.<br>
+- [x] Promoción y alta en buscadores.
+- [x] Diseño, desarrollo y mantenimiento de sitios web.
+- [x] HTML, Javascript, ASP, SQL, IIS5 y Frontpage (!).
