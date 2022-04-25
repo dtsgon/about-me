@@ -8,11 +8,11 @@ Soy capaz de trabajar en equipo y de forma independiente, según las necesidades
 
 ## PHP engineer
 
-**Wolters Kluwer** *2021/10 - actual*. Las Rozas, Madrid.<br>
-**Avirato** *2 años*. Collado Villalba, Madrid.<br>
-**Avance Tecnológico** *1 año*. Collado Villalba, Madrid.<br>
-**MedLab** *1,2 años*. Tres Cantos, Madrid.<br>
-**Grupo Evolución** *8 años*. Collado Villalba, Madrid.<br>
+**Wolters Kluwer** *2021/10 - actual*. Madrid.<br>
+**Avirato** *2 años*. Madrid.<br>
+**Avance Tecnológico** *1 año*. Madrid.<br>
+**MedLab** *1,2 años*. Madrid.<br>
+**Grupo Evolución** *8 años*. Madrid.<br>
 - [x] Desarrollo de aplicaciones Symfony, vanilla PHP, Zend, Sonata, Smarty.
 - [x] Uso de Symfony bundles, Composer, 
 - [x] Bughunting, mantenimiento y refactorización.
@@ -24,7 +24,7 @@ Soy capaz de trabajar en equipo y de forma independiente, según las necesidades
 - [ ] Pruebas unitarias.
 
 ## Fullstack web developer
-**Grupo Evolución** *8 años*. Collado Villalba, Madrid.<br>
+**Grupo Evolución** *8 años*. Madrid.<br>
 - [x] Análisis, desarrollo, implantación y mantenimiento de aplicaciones web.
 - [x] Bootstrap, Materialize, Twig, Jquery.
 - [x] HTML5, CSS3, jQuery, Javascript, Ajax.
@@ -40,7 +40,7 @@ Soy capaz de trabajar en equipo y de forma independiente, según las necesidades
 - [ ] Autopromoción y captación de clientes. 
 
 ## Visual FoxPro developer
-**EasyTech** *3 años*. Cerceda, Madrid.<br>
+**EasyTech** *3 años*. Madrid.<br>
 - [x] Visual FoxPro, MSSQL Server.
 - [x] Desarrollo, implantación y mantenimiento de aplicaciones.
 - [x] Desarrollo en entornos mixtos Web/ActiveX, PALM y otros dispositivos móviles con tecnologías GSM y SMS.
@@ -56,7 +56,7 @@ Soy capaz de trabajar en equipo y de forma independiente, según las necesidades
 
 # Formación
 
-**Administración de Sistemas Informáticos.** Ciclo Superior. IES Lázaro Cárdenas, Collado Villalba, Madrid. 2001.<br>
+**Administración de Sistemas Informáticos.** Ciclo Superior. IES Lázaro Cárdenas, Madrid. 2001.<br>
 **Informática de Gestión.** FP II. IES La Dehesilla, Cercedilla, Madrid. 1998.<br>
 **Auxiliar Administrativo.** FP I. IES La Dehesilla, Cercedilla, Madrid. 1995.<br>
 
@@ -77,8 +77,8 @@ Inglés | Intermedio
 # Otros puestos laborales quizá no tan interesantes
 
 ## Sys admin
-**Avance Tecnológico** *1 año*. Collado Villalba, Madrid.<br>
-**Grupo Evolución** *8 años*. Collado Villalba, Madrid.<br>
+**Avance Tecnológico** *1 año*. Madrid.<br>
+**Grupo Evolución** *8 años*. Madrid.<br>
 - [x] Administración y mantenimiento de redes.
 - [x] Euroglow - Alcobendas, Madrid
 - [x] Reparación de equipos.
@@ -86,14 +86,14 @@ Inglés | Intermedio
 - [x] Venta cara al público.
 
 ## Técnico microinformática
-**Case Informática** *1 año*. Moralzarzal, Madrid.<br>
+**Case Informática** *1 año*. Madrid.<br>
 - [x] Reparación de equipos.
 - [x] Mantenimiento, microinformática y redes.
 - [x] Venta cara al público.
 - [x] Desarrollo en ASP
 
 ## SEO/SEM
-**WebsPromotions** *8 meses*. Las Matas, Madrid.<br>
+**WebsPromotions** *8 meses*. Madrid.<br>
 - [x] Promoción y alta en buscadores.
 - [x] Diseño, desarrollo y mantenimiento de sitios web.
 - [x] HTML, Javascript, ASP, SQL, IIS5 y Frontpage (!).
