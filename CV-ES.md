@@ -70,7 +70,6 @@ Email² | dtsg@gmail.com
 LinkedIn | https://www.linkedin.com/in/danieltsg/
 Github | https://github.com/dtsgon
 Nacionalidad | Española
-Residencia | Madrid, España
 Inglés | Intermedio
 
 
